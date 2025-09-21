@@ -1,4 +1,4 @@
-📘 Mismath: Mining Misconceptions in Mathematics using LLMs
+📘 **Mismath: Mining Misconceptions in Mathematics using LLMs**
 
 Mismath is a research-driven project that leverages Large Language Models (LLMs) to identify and analyze common misconceptions in mathematics. The goal is to support educators by uncovering patterns in student errors and linking them to underlying misconceptions, which can then be used to design better assessments, personalized feedback, and targeted learning interventions.
 
